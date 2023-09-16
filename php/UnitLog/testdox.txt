@@ -1,0 +1,18 @@
+Easy Enemies (Abstractfactory\tests\unit\EasyEnemies)
+ [x] Should return easy map
+
+Easy Map (Abstractfactory\tests\unit\EasyMap)
+ [x] Should return easy map
+
+Game (Abstractfactory\tests\unit\Game)
+ [x] Should return easy enemies
+ [x] Should return easy map
+ [x] Should return hard enemies
+ [x] Should return hard map
+
+Hard Enemies (Abstractfactory\tests\unit\HardEnemies)
+ [x] Should return hard enemies
+
+Hard Map (Abstractfactory\tests\unit\HardMap)
+ [x] Should return hard map
+
